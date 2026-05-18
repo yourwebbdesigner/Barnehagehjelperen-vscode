@@ -1,0 +1,2 @@
+# Barnehagehjelperen-vscode
+Pedagogisk verktøy
